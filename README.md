@@ -3,6 +3,6 @@
 
 
 - *Channel:* https://www.youtube.com/c/FracturedGaming/
-- *Playlist:*
-- *Episode 1:* Waiting for approval from Owner to release
+- *Playlist:* https://www.youtube.com/playlist?list=PLScjW-bX2iDJMjJk1S6LhS5YLm1P__WiL
+- *Episode 1:* https://www.youtube.com/watch?v=ALnHHsZ_Ur8
 - *Episdoe 2:* Coming soon!
