@@ -3,6 +3,6 @@
 
 
 - *Channel:* https://www.youtube.com/c/FracturedGaming/
-- *Playlist:* https://www.youtube.com/playlist?list=PLScjW-bX2iDJMjJk1S6LhS5YLm1P__WiL
-- *Episode 1:* https://www.youtube.com/watch?v=ALnHHsZ_Ur8
+- *Playlist:* https://youtube.com/playlist?list=PLScjW-bX2iDJMjJk1S6LhS5YLm1P__WiL
+- *Episode 1:* https://youtu.be/povJshEvCSg
 - *Episdoe 2:* Coming soon!
